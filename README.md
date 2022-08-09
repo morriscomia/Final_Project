@@ -27,8 +27,7 @@ Additionally, we used NHTSA WebAPIs - https://one.nhtsa.gov/webapi/Default.aspx?
 - Creating Database
     - PostgreSQL
     - Amazon Web Services (AWS)
-- Connecting to Database
-    - Psycopg2
+
 - Analyzing Data
     - Pandas
 - Machine Learning
