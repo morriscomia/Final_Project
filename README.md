@@ -33,7 +33,6 @@ Additionally, we used NHTSA WebAPIs - https://one.nhtsa.gov/webapi/Default.aspx?
     - Pandas
 - Machine Learning
     - Imbalanced-learn
-    - Scikit-Learn
     - Tensorflow
 - Dashboard
     - Javascript
