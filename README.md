@@ -21,7 +21,7 @@ Additionally, we used NHTSA WebAPIs - https://one.nhtsa.gov/webapi/Default.aspx?
 - Where do most accidents occur in Austin?
 
 ## Communication Protocols
-- In order to keep updated on the status of each of our parts of the project, we message each other regularly through Slack. Any other questions or concerns that arise outside of our daily check-ins, we tackle during (or after) class, our group Zoom meetings, or even during weekly TA sessions.
+-  Any other questions or concerns that arise outside of my daily check-ins, I tackle during (or after) class, our group Zoom meetings, or even during weekly TA sessions.
 
 ## Tools
 - Creating Database
