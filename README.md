@@ -37,3 +37,6 @@ Additionally, we used NHTSA WebAPIs - https://one.nhtsa.gov/webapi/Default.aspx?
     - Javascript
     - Flask
     - CSS
+
+## Provisional Database
+https://app.quickdatabasediagrams.com/#/d/C8XBSf
