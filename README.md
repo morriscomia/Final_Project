@@ -42,4 +42,4 @@ Additionally, we used NHTSA WebAPIs - https://one.nhtsa.gov/webapi/Default.aspx?
 https://app.quickdatabasediagrams.com/#/d/C8XBSf
 
 ## Presentation
-- My presentation can be found here [Google Slide Presentation](https://docs.google.com/presentation/d/1L4druVSpZPPmJu9Y5_xuQHMjc9uxpaxPkGMytEVdTJE/edit#slide=id.p)
+- My presentation can be found here [Google Slide Presentation](https://docs.google.com/presentation/d/1L4druVSpZPPmJu9Y5_xuQHMjc9uxpaxPkGMytEVdTJE/edit?usp=sharing)
