@@ -39,7 +39,15 @@ Additionally, we used NHTSA WebAPIs - https://one.nhtsa.gov/webapi/Default.aspx?
     - CSS
 
 ## Provisional Database
-https://app.quickdatabasediagrams.com/#/d/C8XBSf
+
+## Machine Learning Model
+- The preliminary data includes columns that describe the environment for each crash that took place in Austin, TX. These features include the weather condition, crash severity, day of the week, vehicle make and model, etc.
+- An ERD showcasing the inter-relationships between each of the features from the different datasets can be found [here](https://app.quickdatabasediagrams.com/#/d/C8XBSf
+). 
+- After connecting to the database, I printed out the header for each column to see all of the features available. From that list, I chose the features that I believed would have the highest correlation with crash severity.
+- The data was split into training and test data using the train_test_split function. We used the default 75% to 25% split.
+- After careful analyzing, it was determined that the linear models only yielded about 50% correlation. Altering the parameters, such as increasing max iterations and n_jobs,  to these did not increase the accuracy. Neural network model was then used to see if it would have a higher accuracy rate. After adding 8 layers (using Relu, Swish and Sigmoid), the accuracy rate was still at 54%, with 69% loss. This means our model could only accurately predict the outcome of the severity of a crash about 50% of the time. 
+- I decided to use the decision tree model for our machine learning model. I grouped our crash severity data into two categories, 0 - no injury, and 1 - injury. The benefit of this model is that it can be used to predict our binary outcome. The downside of this model is that if we choose to group our crash severity data differently (the data is grouped into 5 classifications: no injury, possible injury, non-incapacitating injury, severe injury, and fatal injury), we will not be able to use the decision tree model.
 
 ## Presentation
 - My presentation can be found here [Google Slide Presentation](https://docs.google.com/presentation/d/1L4druVSpZPPmJu9Y5_xuQHMjc9uxpaxPkGMytEVdTJE/edit?usp=sharing)
