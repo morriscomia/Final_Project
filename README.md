@@ -34,6 +34,7 @@ Additionally, we used NHTSA WebAPIs - https://one.nhtsa.gov/webapi/Default.aspx?
     - Javascript
     - Flask
     - CSS
+    - Heroku
 
 ## Database
 - The other part of our dashboard is an interactive webpage using machine learning to calculate a driver score. It includes an interactive element, users are able to select data that pertains to them (age, type of car, etc.) and click a button that will give the a risk score.\
