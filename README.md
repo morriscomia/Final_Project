@@ -36,7 +36,7 @@ Additionally, we used NHTSA WebAPIs - https://one.nhtsa.gov/webapi/Default.aspx?
     - CSS
 
 ## Provisional Database
-The link to the deployed dashboard is [https://austin-driver-score.herokuapp.com/](https://morris-comia-driver-score.herokuapp.com/
+- The link to the deployed dashboard is [https://austin-driver-score.herokuapp.com/](https://morris-comia-driver-score.herokuapp.com/)
 
 ## Machine Learning Model
 - The preliminary data includes columns that describe the environment for each crash that took place in Austin, TX. These features include the weather condition, crash severity, day of the week, vehicle make and model, etc.
