@@ -39,7 +39,7 @@ Additionally, we used NHTSA WebAPIs - https://one.nhtsa.gov/webapi/Default.aspx?
 ## Database
 - The other part of our dashboard is an interactive webpage using machine learning to calculate a driver score. It includes an interactive element, users are able to select data that pertains to them (age, type of car, etc.) and click a button that will give the a risk score.\
 The link to the dashboard repository is [Link Dashboard Repo](https://github.com/morriscomia/crash-score-predictor.html/tree/main).
-- The link to the deployed dashboard is [https://austin-driver-score.herokuapp.com/](https://crash-score-predictor-demo.herokuapp.com/).
+- The link to the deployed dashboard is [https://austin-driver-score.herokuapp.com/](https://cedric-lutonda-driver-score.herokuapp.com/).
 
 ## Machine Learning Model
 - The preliminary data includes columns that describe the environment for each crash that took place in Austin, TX. These features include the weather condition, crash severity, day of the week, vehicle make and model, etc.
